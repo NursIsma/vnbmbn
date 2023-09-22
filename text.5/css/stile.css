@@ -1,0 +1,194 @@
+.header__container {
+  background: url(../img/doroga.png) no-repeat center center/cover;
+  height: 800px;
+}
+.header__block1 {
+  display: flex;
+  height: 100px;
+}
+.header__logo {
+  align-items: center;
+  display: flex;
+  margin-left: 240px;
+}
+.header__text a {
+  margin: 0 35px;
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.header__text {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-left: 293px;
+}
+.header__text__lg {
+  margin-left: 342px;
+}
+.header__text__lg__1 a {
+  margin: 0 0;
+}
+.header__text__lg__2 {
+  margin-left: -20px;
+}
+.header__zagl {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 700;
+  margin: 153px 240px;
+}
+.header__btn {
+  width: 198px;
+  height: 50px;
+  background: #DB2512;
+  margin: -103px 240px;
+}
+.header__btn__txt {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  padding-top: 12px;
+}
+
+.main .container .intro__main {
+  display: flex;
+  justify-content: space-around;
+  margin-top: -110px;
+}
+.main .container .intro__main .main__block1 {
+  width: 386px;
+  height: 196px;
+  background: #FFF;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.25);
+}
+.main .container .intro__main .main__block1 .main__block1__pic {
+  padding-top: 30px;
+  display: flex;
+  margin-left: 40px;
+}
+.main .container .intro__main .main__block1 .main__block1__zag {
+  color: #000;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 700;
+  margin-left: 40px;
+}
+.main .container .intro__main .main__block1 .main__block1__opis {
+  color: #B7B7B7;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 40px;
+}
+
+.title__blocks {
+  display: flex;
+  justify-content: space-around;
+  margin: 60px 200px;
+}
+.title__blocks .title__block1__txt {
+  color: #000;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%; /* 30px */
+  letter-spacing: 4.6px;
+  text-transform: uppercase;
+}
+.title__text {
+  margin: 153px 240px;
+}
+.title__text h1 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%; /* 45px */
+  letter-spacing: 4.5px;
+  text-transform: uppercase;
+}
+.title__text a {
+  color: #000;
+  font-family: Poppins;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2.25px;
+  text-decoration-line: underline;
+}
+
+.og {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.og__logo {
+  color: #000;
+  font-family: Poppins;
+  font-size: 148px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 150%; /* 222px */
+  text-transform: uppercase;
+}
+.og__opis p {
+  color: #000;
+  font-family: Poppins;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%; /* 60px */
+  letter-spacing: 6px;
+  text-transform: uppercase;
+}
+.og .main__block1__txt {
+  color: #000;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  letter-spacing: 4.6px;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+}
+.og__list {
+  display: flex;
+  list-style: none;
+}
+.og__list .list__item {
+  padding: 30px;
+  background: #FFF;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.25);
+  margin: 0 20px;
+}
+.og__list .list__item .item__title {
+  color: #000;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%; /* 27px */
+  letter-spacing: 2.7px;
+  text-transform: uppercase;
+}
+.og__list .list__item .item__text {
+  color: #B7B7B7;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 27px */
+}
